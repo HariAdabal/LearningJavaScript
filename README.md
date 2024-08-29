@@ -1,0 +1,2 @@
+This repository contains three folders named Arrays,Conditionals and Loops of JavaScript
+Each folder contains a practice problems for the contents like for arrays folder contains arrays practice problems, for conditionals folder contains conditionals practice problems and similarly Loops folder contains loops practice problems.
